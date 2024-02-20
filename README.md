@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🤝 I’m Currently looking for Remote web dev Job<br>🌱 I’m currently learning Next Js<br>💬 Ask me about Web Dev<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
@@ -21,4 +21,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=somnath9199&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
